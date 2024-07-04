@@ -1,0 +1,12 @@
+1. String Manipulation and User Input:
+
+Write a program that prompts the user for their first and last name. Create a greeting message that combines these names and displays it in uppercase letters. (Use string concatenation, input function, and string methods like upper())
+2. Text Analysis and Data Conversion:
+
+Write a program that prompts the user for a sentence. Count the number of words and vowels (a, e, i, o, u) in the sentence. Convert the word count to uppercase and display the results. (Use string methods like split(), loops, conditional statements, and data type conversion with str())
+3. Simple Calculations with Operator Precedence:
+
+Write a program that prompts the user for two numbers and an operator (addition, subtraction, multiplication, or division). Perform the calculation based on the operator and display the result. Ensure correct operator precedence using parentheses if necessary. (Use input function, data type conversion with float() or int(), and arithmetic operators)
+4. String Formatting and Data Validation:
+
+Write a program that prompts the user for their age. If the age is a valid integer greater than 18, display a message indicating eligibility to vote. Otherwise, display an appropriate message. (Use input function, data type conversion with try-except block for error handling, and conditional statements)
